@@ -39,7 +39,7 @@ This repo **only contains the source code** of the resolution switcher, not the 
 
 ---
 
-## ⚠️ 注意事项 / Notes
+## 注意事项 / Notes
 
 - **请勿更改皮肤文件夹名称**，否则切换器将无法定位目标
 - 若你未选择正确的 `osu!` 安装路径，程序将提示并终止
